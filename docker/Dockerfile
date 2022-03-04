@@ -1,4 +1,4 @@
-FROM python:3.9-bullseye AS server
+FROM python:3.11.0a5-slim-bullseye AS server
 
 ARG USER_ID=1000
 ARG GROUP_ID=1000
