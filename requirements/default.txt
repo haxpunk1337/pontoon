@@ -585,7 +585,7 @@ swapper==1.2.0 \
     --hash=sha256:410fa095e9b47b7204defc3fb6dbf4235fa249925221635c729e95f7ebbe87b9 \
     --hash=sha256:8035ba4c28d4199ac28fc232544adc225bc5f25d3415f1c37169624b0a0e9fdd
     # via django-notifications-hq
-tqdm==4.62.3 \
+tqdm==4.66.3 \
     --hash=sha256:8dd278a422499cd6b727e6ae4061c40b48fce8b76d1ccbf5d34fca9b7f925b0c \
     --hash=sha256:d359de7217506c9851b7869f3708d8ee53ed70a1b8edbba4dbcb47442592920d
     # via sacremoses
