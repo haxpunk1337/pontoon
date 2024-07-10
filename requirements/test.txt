@@ -148,3 +148,4 @@ urllib3==1.26.7 \
     # via
     #   -c requirements/default.txt
     #   requests
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
