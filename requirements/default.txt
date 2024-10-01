@@ -236,7 +236,7 @@ jsonfield==3.1.0 \
     # via
     #   -r requirements/default.in
     #   django-notifications-hq
-jsonpickle==2.0.0 \
+jsonpickle==3.3.0 \
     --hash=sha256:0be49cba80ea6f87a168aa8168d717d00c6ca07ba83df3cec32d3b30bfe6fb9a \
     --hash=sha256:c1010994c1fbda87a48f8a56698605b598cb0fc6bb7e7927559fc1100e69aeac
     # via raygun4py
