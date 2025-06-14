@@ -175,7 +175,7 @@ django-webpack-loader==0.5.0 \
     --hash=sha256:0a8536e36a30d719018cd4c5da6e9d2377771134e713c14e617bb484b4f0acce \
     --hash=sha256:7094bcd8cc40c9824e5b482ce8ff9e8ae09e1982e5d08e078e5fe2411fb40a03
     # via -r requirements/default.in
-django==3.2.10 \
+django==4.2.22 \
     --hash=sha256:074e8818b4b40acdc2369e67dcd6555d558329785408dcd25340ee98f1f1d5c4 \
     --hash=sha256:df6f5eb3c797b27c096d61494507b7634526d4ce8d7c8ca1e57a4fb19c0738a3
     # via
@@ -540,7 +540,7 @@ requests-oauthlib==1.3.0 \
     --hash=sha256:7f71572defaecd16372f9006f33c2ec8c077c3cfa6f5911a9a90202beb513f3d \
     --hash=sha256:b4261601a71fd721a8bd6d7aa1cc1d6a8a93b4a9f5e96626f8e4d91e8beeaa6a
     # via django-allauth
-requests==2.26.0 \
+requests==2.32.4 \
     --hash=sha256:6c1246513ecd5ecd4528a0906f910e8f0f9c6b8ec72030dc9fd154dc1a6efd24 \
     --hash=sha256:b8aa58f8cf793ffd8782d3d8cb19e66ef36f7aba4353eec859e74678b01b07a7
     # via
